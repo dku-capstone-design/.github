@@ -1,3 +1,4 @@
+![제목을 입력하세요 (1)](https://github.com/user-attachments/assets/6fb0eaa6-fd16-4dd1-babd-9e5fb5a40a8f)
 # 🏫 Koreigner
 ## 목차
 | 순번 | 목차 항목 |
