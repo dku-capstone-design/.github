@@ -42,20 +42,3 @@
 | 5 | 게시판 |<img src="https://github.com/user-attachments/assets/06fe9ffe-4f8d-4211-829c-1edab590eadf"  width="200" height="400"/>   <img src="https://github.com/user-attachments/assets/5f99f46d-93e3-4d5c-b8f0-25b0f42c3608"  width="200" height="400"/>   <img src="https://github.com/user-attachments/assets/e0731642-1921-4c7f-9c8d-4fc50cafe83d"  width="200" height="400"/>|
 | 6 | 채팅 |<img src="https://github.com/user-attachments/assets/047b86c2-b36d-4d01-bc5f-59b21314bb44"  width="200" height="400"/>   <img src="https://github.com/user-attachments/assets/d74ae64e-ef45-49ac-9c8e-bac363ef4cba"  width="200" height="400"/>   <img src="https://github.com/user-attachments/assets/dc6fba48-4c1f-49b2-9407-a43f8a0473d0"  width="200" height="400"/>|
 | 7 | 다국어 지원 |<img src="https://github.com/user-attachments/assets/59fd27f0-bb04-45d8-9fa8-eb01bcf00743"  width="200" height="400"/>   <img src="https://github.com/user-attachments/assets/a24c0921-4927-4c27-8809-feaf3de71533"  width="200" height="400"/>   <img src="https://github.com/user-attachments/assets/31e5d472-69f0-485e-bdf4-f2a5b40e57da"  width="200" height="400"/>|
-
-
-
-## 기능 평가
-
-> 정량적 평가
-
-| 평가 항목 | 정량적 목표 | 평가 방법 | 평가 결과| 비고 |
-| :-: | :-: | :-: | :-: | :-: |
-| 5,000명 동시 접속 | 20ms 이내 응답 | Apache JMeter | | |
-| 10,000명 동시 접속 | 20ms 이내 응답 | Apache JMeter | | |
-
-> 정성적 평가
-
-| 평가 항목 | 정성적 목표 | 평가 방법 | 비고 |
-| :-: | :-: | :-: | :-: |
-
