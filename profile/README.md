@@ -20,17 +20,7 @@
 | ___Github___ | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> | <a href="https://github.com/KrDmitri"><img src="https://avatars.githubusercontent.com/u/86886489?v=4" width="64" height="64"></a> | <a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/u/94334477?v=4" width="64" height="64"></a> | <a href="https://github.com/ChunEunyu"><img src="https://avatars.githubusercontent.com/u/82995817?v=4" width="64" height="64"></a> | <a href="https://github.com/yeonjaeheo"><img src="https://avatars.githubusercontent.com/u/150000428?v=4" width="64" height="64"></a> |
 
 ## 프로젝트 기간
-- 24.03 ~ 현재
-
-## 추진 배경
-- 내용
-- 내용
-  
-## 프로젝트 목표
-- 내용
-- 내용
-
-## 시스템 설계도
+- 24.03 ~ 24.12
 
 ## 기능 정리
 | 순번 | 기능 목록 | 이미지 |
