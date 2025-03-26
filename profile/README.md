@@ -7,11 +7,7 @@
 | :-: | :-: |
 | 1 | [팀원 소개](#팀원-소개) |
 | 2 | [프로젝트 기간](#프로젝트-기간) |
-| 3 | [추진 배경](#추진-배경) |
-| 4 | [프로젝트 목표](#프로젝트-목표) |
-| 5 | [시스템 설계도](#시스템-설계도) |
-| 6 | [기능 정리](#기능-정리) |
-| 7 | [기능 평가](#기능-평가) |
+| 3 | [기능 정리](#기능-정리) |
 
 ## 팀원 소개
 | _이름_ | 정규원 | 조성범 | 주세연 | 천은유 | 허연재 |
@@ -20,7 +16,7 @@
 | ___Github___ | <a href="https://github.com/digitpic"><img src="https://avatars.githubusercontent.com/u/63178849?v=4" width="64" height="64"></a> | <a href="https://github.com/KrDmitri"><img src="https://avatars.githubusercontent.com/u/86886489?v=4" width="64" height="64"></a> | <a href="https://github.com/jjjooo-it"><img src="https://avatars.githubusercontent.com/u/94334477?v=4" width="64" height="64"></a> | <a href="https://github.com/ChunEunyu"><img src="https://avatars.githubusercontent.com/u/82995817?v=4" width="64" height="64"></a> | <a href="https://github.com/yeonjaeheo"><img src="https://avatars.githubusercontent.com/u/150000428?v=4" width="64" height="64"></a> |
 
 ## 프로젝트 기간
-- 24.03 ~ 24.12
+- 24.03 ~ 24.05
 
 ## 기능 정리
 | 순번 | 기능 목록 | 이미지 |
